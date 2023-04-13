@@ -27,3 +27,7 @@ puts decimals[2]
 if truth_false[3] == false
     puts "Hello!"
 end
+
+# The array method.length returns the value of length of the array we call.
+book_of_life = ["Bob", "Shirley", "Sue", "Sam", "Walter", "Borris", "Karina", "Karla", "Carol", "Burny", "Bruford", "Adam", "Lawson", "Fern"]
+puts book_of_life.length
